@@ -1,0 +1,4 @@
+baseURL = "http://1000wordsperday.com/"
+languageCode = "en-us"
+title = "1000 Words per Day"
+theme = "ananke"
