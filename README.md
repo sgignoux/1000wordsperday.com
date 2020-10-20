@@ -10,3 +10,5 @@
 * Why writing
 * short term vs long term
 * risk
+* doing fun stuff vs persisting when it is hard
+* when to give up
