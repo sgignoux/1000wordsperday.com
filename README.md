@@ -11,4 +11,5 @@
 * short term vs long term
 * risk
 * doing fun stuff vs persisting when it is hard
+* Doing the hard things (i didn't know it was impossible to do an animation alone, and I did it)
 * when to give up
