@@ -5,6 +5,8 @@
 ### Random topics
 
 * Refining (drawing)
+  * Layering
+  * Composing out of simple thinkgs
 * Why writing
 * short term vs long term
 * risk
