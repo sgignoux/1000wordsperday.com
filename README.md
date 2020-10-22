@@ -14,3 +14,4 @@
 * Doing the hard things (i didn't know it was impossible to do an animation alone, and I did it)
 * when to give up
 * Delayed gratification and motivation
+* Sacrifice, what are you willing to sacrifce to get it (AJATT)
