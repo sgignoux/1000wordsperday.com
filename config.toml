@@ -1,4 +1,4 @@
-baseURL = "http://1000wordsperday.com/"
+baseURL = "https://1000wordsperday.com/"
 title = "Black & Light"
 author = "David Hamp-Gonsalves"
 canonifyurls = true
