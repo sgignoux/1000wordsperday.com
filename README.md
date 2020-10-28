@@ -20,3 +20,4 @@ an experiment in writing: just write 1000 words a day, for 100 days in a row. Fo
 * The comfortable hard road, vs uncomfortable easy road? (Justify because you are learning japanese the hard way)
 * Consistency beats strategy
 * It’s okay to not have a plan
+* Becoming a father
