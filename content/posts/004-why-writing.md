@@ -1,5 +1,28 @@
 ---
 title: "#004 - Why writing?"
 date: 2020-10-29T12:14:12+02:00
-draft: true
+draft: false
 ---
+
+I have started this project of 1000 words per day in order to improve my writing, but I didn't explain why I wanted to improve it and what I expect out of the all project.
+
+I have two goals:
+
+* improve my thinking
+* make money has a writer in the future
+
+My first goal is to use writing as a way to improve the quality of my thinking. To check that I understand something, I can write about it and see if what I write is clear or not. I can identify holes in my thinking and make sure that the all ideas make sense when I look at them together, not just when I look at them one by one. I hope also that writing like that will bring new ideas together, but juxstaposing concept and sparks ideas. By writing about what I want to understand, it can help to deepen my understanding and explore new things.
+
+Many smart people has said something along the line that "it is only when I write it clearly that I can say that I understand something". Writing is not just for checking understanding, writing _is_ thinking. By writing you unfold your ideas into their base components, look at them, see explicitly how they connect together and combine new things.
+
+One key elements that need to be kept in mind is that "writing for thinking" might not be the same as "writing for explaining", especially to somebody. I have found the concept while looking at a video that explains how to improve your academic writing and it struck me as something important. When writing for explain, I need to unravel the ideas in a logical sequence that takes the reader from where he is to what I want to say. I also need to convince the reader that reading this document is of value to him, else why should he or she spend the time. "Writing for thinking" is internal and you might be the only reader. "Writing for explaining" is open to the outside. You write because you want to convince and you need to put yourself in the shoes of your reader.
+
+The second goal is that I'd like to be able to make money out of writting. I am not sure why, but I like the idea of being able to produce things that people are ready to buy. When writing a book, but this might apply to video or other support, it is not the same as working for a company. There is more of direct contact with the final client. 
+
+One of the thing I have noticed again and again is that I enjoy very much building things. I could go back to writing software, and I hope that I will have the time at some point, but it seems that writing could be a very good "substitute" for the idea of building and making stuff. Also I have noticed that I enjoy at least some of the steps of writing: it might just be the feeling of touch typing, but also editing and rewriting to make sure your point is clear and understandable. After noticing that a couple of times, I thought that it might be a good indication that I should look at this writing stuff a little bit more.
+
+What could my "produced" could be out of writing? I'd like to write non fictions books where I explain clearly technical stuff. My secret plan is a write a series of books where I would build step by step a complete computing system from scratch. That means not only inventing a CPU with my instruction set, but also implementing it in an FPGA, building a compiler for a C like language, writing a simple unix-like OS, with file system and networking stack. What would be really great is to make the all system workable like an independant computer, with a shell, a text editor and simple programs. Another book I'd like to write is about database system. It's nearly impossible to find a book that really explain how a database is implemented _really_ inside. Yes, there are tons of textbook about database, but almost non of them show you an actual implementation. I have found that there is quite a gap between what the books says and what you need to know to make it work. I did a very small scale experiment in writing a small storage system for a future database in GO and I found out lots of bottlenecks and issues that where not apparent from the books but gave me much deeper insights into why some stuff where implemented in a certain way.
+
+It seems that both of this goals go hands in hands, has you need clear thinking to write clearly into this complex systems. But because the plan is so ambitious, I just look at it from a distance and could keep myself to start really on anything. The size of the project made it easy to procrastinate. So I decided to start small, and then smaller and just try to get something written. Anything is fine for a start. I'll try to get more structured article in the future, but my first goal her is to take the habit to just sit down and write. Just make it an habit to go to the starting line every day. And this is no small feats. Most people don't succeed because they tried and failed. Most people don't succeed because they just haven't tried at all. So I have taken this simple goal. Sit down, write until you see the counter at the bottom of the screen go to 1000, don't look back at what you read, don't edit, almost never use the backspace for more that a couple of words, push it online and prepare the next file for the next day, so that I just have to start writing without having to make any choice on the topic. 
+
+Know I have to look at the list for tomorrow. Let's pick a topic a little bit more challenging: "short term vs long term"
