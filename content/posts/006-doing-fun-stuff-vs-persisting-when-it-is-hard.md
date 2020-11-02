@@ -1,9 +1,26 @@
 ---
-title: "#009 - doing fun stuff vs persisting when it is hard"
-date: 2020-10-31T12:14:12+02:00
-draft: true
+title: "#006 - doing fun stuff vs persisting when it is hard"
+date: 2020-11-02T12:14:12+02:00
+draft: false
 ---
 
+I guess this ones comes from questions I am asking myself when it comes to learning Japanese, but I am sure that it can be applied elsewhere. Learning Japanese has taken me an extraordinary amount of time. Partially because I didn't find the time for long period of time to really do the activity that would make me progress. On the other hand, I have focused a lot on the fun stuff and easily switched to something else whenever I didn't felt like continuing. It feels that because of that, I didn't push through some challenges and didn't progress has much as I could. 
 
+When doing something that will take a long time to accomplish, I tend to suggest that focusing on activity that will maximize your probability of continuing is most important. On the other hand, you want to push yourself and move out of your confort zone to really improve. Maybe on a rythmic pattern, where there are times where you have the energy and motivation to endure the hard stuff and for the other time focus on the fun stuff.
 
+I am ambivalent when it comes to motivation. I don't think that you "wait for motivation" to do it. I have setup a system with the flashcard that seems beyond motivation. It is so ingrained, that it would actually take now a significant effort to stop me.
+
+It seems that the people who learned japanese the fastest did do it by putting an amount of energy and focus that is insane. I don't seem to be able to replicate that. On the other side, it seems that in many cases, if I just tried to read this text a little harder or watch this video a couple of times, I could understand much more than I initially thought. But there is this things as "too hard" in language learning. If you don't know most of the vocabulary, you can't do it without massive amount of dictionnary time.
+
+All this remind me of the difficulty of finding the right level of content for your reading. According to multiple researcher, if you manage to find texte in which you know 98% of the vocabulary, you can more easily read the texte for pleasure and consume a large amount of content in your target language, but also you will slowly learn the vocabulary of the 2% by repeated exporsure in the texte. The hardest stuff is that if you have text at 95%, you probably won't keep up with the story and it will take a lot of effort to keep going. If the content is to easy, with 99% or 100%, then you won't be exposed to as many new word and won't progress... the windows of "optimal" content is very hard to find, since it depends only on your vocabulary range. 
+
+So, how to jump throug the first step and actually reach a level where you can improve just by exposure to the content of the language your are learning? Well, you have to go through a couple of hard books I guess, which will help you bridge the gap between where you are and where you want to go.
+
+Another way of asking the question is "when to give up?" Some people seems to want you to belive that you should neve give up, but then you might be spending your time on low return activity, even wasting your time and creating a debt. How much should you persever when things get though? Should I stop reading this book just because I had to learn 30 new words per page on the beginning? Will it get better? Am I compelled to read the book? The risk is to feel discouraged and stop trying. Maybe just going to another book is ok. But on the other hand, authors tend to have the same vocabulary range and sticking to one author might be easier with time... Same words, same grammar, same uniqueness, that once you understand better, it get easier.
+
+Is it greener on the other side of the montain? Well, you don't see it from where you stand, and you don't even know how big is the montain untill you have reached the top.
+
+From what I see here, it is clear that I don't have a good criteria that would help determine in advance if this is good or not. Maybe we shouldn't care too much to optimize and being too efficient and just focus on being effective and do the work everyday of reading a few pages and learning the new words and going back a couple of days later to see if this is better. After all, there is a finished (albeit very large) number of word. The most important stuff is that you have to find content that you are compelled to read and understand. If you have excuses or you can read it in another language, it might be enough to not do the effort. Find something that is unique to you that is incredibly motivating and that you just have to understand. Sometime it comes from your own choices, and this is easy to skip and not face the challenge. Some other time it comes from some external actors and you just have to do the work of reading this document or contract and understand it. Maybe this is when a teacher can compensate the absence of reading pressure. Some people just watch manga and are so obsessed that they want to understand at all cost.
+
+It seems that the only lesson that I have learned is that I should try harder and seek more disconfort. Too much easy choices and give up made be more forward slower that I should have, but I am very proud of having continued for so long. I might be very slow learner, but I do think that I am the only one that reach this level from my initial japanese lesson class 13 years ago... this is not a race with a finish line, this is a race where the last one standing wins.
 
