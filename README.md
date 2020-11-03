@@ -9,10 +9,7 @@ an experiment in writing: just write 1000 words a day, for 100 days in a row. Fo
 * Refining (drawing)
   * Layering
   * Composing out of simple thinkgs
-* Why writing
-* short term vs long term
 * risk
-* doing fun stuff vs persisting when it is hard
 * Doing the hard things (i didn't know it was impossible to do an animation alone, and I did it)
 * when to give up
 * Delayed gratification and motivation
@@ -22,3 +19,11 @@ an experiment in writing: just write 1000 words a day, for 100 days in a row. Fo
 * It’s okay to not have a plan
 * Becoming a father
 * Quantity vs Quality
+* Transactional vs strategic thinking
+
+### Done
+
+* Why writing
+* short term vs long term
+* doing fun stuff vs persisting when it is hard
+
