@@ -1,6 +1,27 @@
 ---
 title: "#009 - Becoming a father"
 date: 2020-11-04T12:14:12+02:00
-draft: true
+draft: false
 ---
 
+What can I say about becoming a father? What would I say to myself before I got any children? That you can't preprare for it. That you can't plan for something that you don't know. That this is both harder and more rewarding than anything? 
+
+First, it is just incredible to see somebody grow and change and start to talk. This is incredible to have seen something come out of nothing. There is this little being and before it was not there. 
+
+It take a lot of energy, but it will be different at each phases. At first it is only sleeping and eating and taking a rythm. The first time we went home after the birth of our first daugther, it took a couple of month to adjust. We didn't even find the time to eat. I have no idea how it was possible for a little being to use that much of our time. The strange thing is that when the second child came, it was not that hard and we didn't feel that much overwhelmed. Maybe we practiced and got to internalize a few things. For the first baby we needed to learn a lot and be super aware of everything and worying a lot too. I remember calling the doctor during the night because she was crying and we didn't understand why, just to be told that it was probably just some gas from digestion. We were so afraid, checking temperature and making sure everything is fine. With the second one we were careful, but it didn't seem to take too much of our focus. We just knew how to handle things.
+
+What I like about being a parent is the importance of consistency and doing it everyday. It is not the big things that really make a difference in my opinion, it is the small things that you do everyday in front of them. In many cases, you can't really control that. You can just trying to be your best self and be consistent with what you thing is important for them. I want to show them that you can keep calm and that you don't have to shout. Of course I raise my voice, but I believe that you can show authority without using violence. A lot of time, I see parent shouting and kind of loosing control. I don't think it shows a good example. What does it teach to the children? That you can shout and be angry when things don't go the way you want. I prefer to show other options. Sure, I have to repeat things a million time sometime. Sure, sometime I shout and I regret it. But I try to do my best. To show them that there is a path where you can remain calm even if you are upset.
+
+Another hard think for me was fear of loosing them. It tooks years to go away, and it is still with me. I would constantly be afraid that an accident would happend to them and that they would die or be hurt badly. I use to be able to relax only when they were in our appartment, sleeping quitefully in there bed. I still have fear, but I manage to not think about it during the day.
+
+Being myself a father is bringing me new connection to my father too. He sadly died before knowing my children, but I try to picture him having to deal with me when I was at the same age than my children. Did he gave me milk? Did he think the same things as me about having a children? It feel that we have another thing in common, despite him being away.
+
+I feel very lucky to see that my children seems quite happy. Sure they have difficult times and are sad sometime, but they feel so happy and alive and enjoying life. This is pure pleasure and I am secretly extremly proud of that. Will not completly secretly, I try to tell them regularly that we love them and we are super proud of them.
+
+Another interesting thing is seing my older daughter handle my younger son. It is not always easy to be the big sister and sometime she wishes that he was away. It is hard to deal with that. She can love him and be super happy and then change her mind. She is young, and we try to help her learn and understand her emotions. This is an important skills.
+
+There are a few things that I really would like them to deeply understand. One of them is that you have to try and practice to succeed in doing something. Sometime they have the image that if you can't do it immediatly, you are not good and this is lost. My daugther had a very hard time during her second dance lesson because she was not able to do something and it really upseted her, to the point that she wanted to stop the lessons. It was somewhat hard for me too. I was very unhappy that she wanted to give up, but we manage to help her practice, showed her that she could do it while trying to explain again and again that this is normal: at first you don't succeed on the first few try, that you have to do it many times sometime to success and that this is going to be like that all the time. She went back the lessons and really enjoy them. I hope she understood that deeply: she can learn, what she don't know how to do yet, she can choose to master.
+
+All in all, raising my childrens are prabably the only really important thing I will do in my life. Through them, my live will inderctly ripple through time, because they will have seen me and learn a few things that might influence enough their behavior and thinking, that they will in turn influence their childrens.
+
+I think that if I become a grand father, I will have succeeded 100% in my life, but this is something for them to decide. In the meantime, I have to be healthy and happy and give them all what they need to grow up.
