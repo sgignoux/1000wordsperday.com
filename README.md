@@ -20,6 +20,7 @@ an experiment in writing: just write 1000 words a day, for 100 days in a row. Fo
 * Transactional vs strategic thinking
 * When smart can’t beat experience 
 * Does writing improve speaking
+* models are not about absolute values; they are about relationships
 
 
 ### Done
